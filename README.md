@@ -1,2 +1,2 @@
-# Numpy
-Numpy Code
+# Deep Learning
+Deep Learning code for beginner

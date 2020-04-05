@@ -12,4 +12,4 @@ with conda
 conda install -c conda-forge ipywidgets
 Link to ipywidgets documentation
 
-<a>https://ipywidgets.readthedocs.io/en/latest/user_guide.html</a>
+https://ipywidgets.readthedocs.io/en/latest/user_guide.html

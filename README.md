@@ -9,11 +9,11 @@ With pip
 pip install ipywidgets
 <br>
 jupyter nbextension enable --py widgetsnbextension
-<br>
+<br><br>
 with conda
 <br>
 conda install -c conda-forge ipywidgets
 <br>
 Link to ipywidgets documentation
-
+<br>
 https://ipywidgets.readthedocs.io/en/latest/user_guide.html
